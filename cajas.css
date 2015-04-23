@@ -1,0 +1,22 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	margin: 100px auto;
+	width: 900px;
+	background-color: red;
+}
+
+h3 {
+	float: left;
+	margin: 0px auto;
+	text-align: justify;
+
+
+ }
+
+ .clear{
+ 	clear: both;
+ }
